@@ -10,7 +10,7 @@
 #wb_footer { background-color: transparent; }
 #wb_footer:before { background: transparent none repeat-x scroll left top; }
 body { background-color: transparent; }
-body.site:before { background: transparent url("../gallery_gen/61b289127e86651f58283068c7032a07.jpg") repeat-x scroll center top; background-size: auto auto; }
+body.site:before { background: transparent url("../static_files/61b289127e86651f58283068c7032a07.jpg") repeat-x scroll center top; background-size: auto auto; }
 .wb_sbg { background: transparent none repeat-x scroll left top; }
 body, .wb_sbg { min-width: 100%; min-height: 100%; }
 .root { box-sizing: border-box; width: 100%; }
@@ -113,7 +113,7 @@ body, .wb_sbg { min-width: 100%; min-height: 100%; }
 #wb_cs_col_28:first-child { margin-top: 0; }
 #wb_element_instance13 { z-index: 6669; height: 570px; min-height: 1px; width: 100%; margin-left: auto; margin-right: auto; margin-top: 0px; }
 #wb_cs_row_29 { padding-left: 0; padding-right: 0; padding-top: 0px; margin-top: -1430px; float: left; padding-bottom: 0px; }
-#wb_header_bg { background: transparent url("../gallery_gen/61b289127e86651f58283068c7032a07.jpg") repeat-x scroll center top; background-size: auto auto; background-attachment: scroll; height: 120px; }
+#wb_header_bg { background: transparent url("../static_files/61b289127e86651f58283068c7032a07.jpg") repeat-x scroll center top; background-size: auto auto; background-attachment: scroll; height: 120px; }
 #wb_sbg_placeholder { background: transparent none repeat-x scroll left top; background-attachment: scroll; height: 120px; }
 #wb_main { padding-top: 120px; }
 #wb_main .wb_cont_outer { top: 120px; }
